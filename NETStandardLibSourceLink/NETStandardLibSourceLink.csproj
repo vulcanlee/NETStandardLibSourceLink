@@ -7,7 +7,7 @@
   <PropertyGroup>
     <Company>Contoso Inc.</Company>
     <Authors>Vulcan Lee</Authors>
-    <Version>1.0.0</Version>
+    <Version>1.1.0</Version>
     <Description>展示如何建立、發佈、原始碼除錯 NuGet 套件的練習範例專案</Description>
 
     <PackageProjectUrl>https://github.com/vulcanlee/NETStandardLibSourceLink</PackageProjectUrl>
